@@ -1,6 +1,6 @@
 # ML-recruitment-task
 
-Repository contains solved task during recruitment for Machine Learning position. It contains of:
+Repository contains solved task during recruitment for Machine Learning position. It consists of:
 - loading dataset
 - creating simple heuristic
 - creating ML models: Decision Tree and Random Forest
